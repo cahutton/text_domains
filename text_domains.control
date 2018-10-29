@@ -1,0 +1,5 @@
+# text_domains extension
+comment = 'Text domains'
+default_version = '1.0'
+relocatable = true
+superuser = false
